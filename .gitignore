@@ -1,0 +1,8 @@
+*.log
+node_modules/
+dist/
+.env
+.vscode/settings.json
+.idea/
+*.iml
+.DS_Store
